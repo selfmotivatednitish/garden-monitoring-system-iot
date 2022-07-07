@@ -1,1 +1,1 @@
-# Garden Monitoring System IoT
+# <center> Garden Monitoring System IoT</center>

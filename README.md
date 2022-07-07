@@ -1,1 +1,1 @@
-# <center> Garden Monitoring System IoT</center>
+# <p align = "center">Garden Monitoring System IoT</p>
